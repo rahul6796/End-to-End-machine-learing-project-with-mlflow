@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rahul/Desktop/machine-learning-project/End-to-End-machine-learing-project-with-mlflow/mlruns/0/f7ebd0ac278e431a8f122f432ad64c8b/artifacts
+end_time: 1690643360110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f7ebd0ac278e431a8f122f432ad64c8b
+run_name: thoughtful-bear-122
+run_uuid: f7ebd0ac278e431a8f122f432ad64c8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690643261951
+status: 3
+tags: []
+user_id: rahul

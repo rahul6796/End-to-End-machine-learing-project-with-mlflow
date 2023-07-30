@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rahul/Desktop/machine-learning-project/End-to-End-machine-learing-project-with-mlflow/mlruns/0/d6ea853c031a4db78d4494ac7c0d1c0d/artifacts
+end_time: 1690643084648
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6ea853c031a4db78d4494ac7c0d1c0d
+run_name: sneaky-dove-883
+run_uuid: d6ea853c031a4db78d4494ac7c0d1c0d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690643082509
+status: 3
+tags: []
+user_id: rahul

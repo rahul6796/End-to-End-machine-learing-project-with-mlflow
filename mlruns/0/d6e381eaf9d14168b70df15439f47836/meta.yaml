@@ -1,0 +1,15 @@
+artifact_uri: file:///home/rahul/Desktop/machine-learning-project/End-to-End-machine-learing-project-with-mlflow/mlruns/0/d6e381eaf9d14168b70df15439f47836/artifacts
+end_time: 1690642568275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6e381eaf9d14168b70df15439f47836
+run_name: efficient-lynx-574
+run_uuid: d6e381eaf9d14168b70df15439f47836
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690642566078
+status: 3
+tags: []
+user_id: rahul
